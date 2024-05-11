@@ -81,7 +81,7 @@ Class	Yes/no	LHR to YYC	Route	Verified
 Route	Routes (LHR to YYC)	Economy Class	21-DEC	Class	Flying_month
 Traveller_type	Business, Solo Leisure, Family Leisure	Business Class	777-300, A319	Class	Aircraft Type
 
-For complete code with data preprocessing and all the above steps [click here](Data Analysis of British Airways.ipynb).
+For complete code with data preprocessing and all the above steps please click on [the code I wrote](Data_Analysis_of_British_Airways.ipynb).
 
 
 
