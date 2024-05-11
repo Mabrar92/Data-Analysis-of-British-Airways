@@ -1,4 +1,4 @@
-# Data-Analysis-of-British-Airways
+# Data Analysis of British Airways
 
 The competition in the airline industry is at an all-time high due to the introduction of new airlines and expansion of existing services. Thus, to stay relevant in the industry it is crucial to understand the drivers of customer satisfaction for service improvements and effective marketing strategies. This analysis aims to analyze customer satisfaction within the airline industry, focusing on British Airways. By identifying factors influencing customer ratings and understanding seasonal booking trends, the analysis provides actionable insights that could enhance service delivery and customer experience.
 
@@ -81,7 +81,7 @@ Class	Yes/no	LHR to YYC	Route	Verified
 Route	Routes (LHR to YYC)	Economy Class	21-DEC	Class	Flying_month
 Traveller_type	Business, Solo Leisure, Family Leisure	Business Class	777-300, A319	Class	Aircraft Type
 
-For complete code with data preprocessing and all the above steps please visit the python code in the repository.
+For complete code with data preprocessing and all the above steps [click here](Data Analysis of British Airways.ipynb).
 
 
 
