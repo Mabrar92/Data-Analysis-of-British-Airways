@@ -80,11 +80,8 @@ Data preprocessing is the process of transforming data to improve its quality an
 **Handing Data Inconsistencies**
 The dataset has been analyzed in-depth and all the inconsistencies are presented in Table. This table is structured to separate the expected correct and incorrect data for each column and the appropriate category for each of the incorrect data where this data belongs to. The Aircraft type is a new feature introduced in this analysis to store the aircraft type data.
 
-Column Name	Expected Correct Data	Incorrect Data	Appropriate Category for Incorrect Data
-Flying_month	Dates (21-DEC)	Economy
-Class	Yes/no	LHR to YYC	Route	Verified
-Route	Routes (LHR to YYC)	Economy Class	21-DEC	Class	Flying_month
-Traveller_type	Business, Solo Leisure, Family Leisure	Business Class	777-300, A319	Class	Aircraft Type
+<img width="593" alt="image" src="https://github.com/Mabrar92/Data-Analysis-of-British-Airways/assets/18236632/276265c0-319e-41b7-8549-17cd8689cb89">
+
 
 For complete code with data preprocessing and all the above steps please click on [the code I wrote](Data_Analysis_of_British_Airways.ipynb).
 
