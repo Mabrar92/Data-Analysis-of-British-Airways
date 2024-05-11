@@ -2,7 +2,9 @@
 
 The competition in the airline industry is at an all-time high due to the introduction of new airlines and expansion of existing services. Thus, to stay relevant in the industry it is crucial to understand the drivers of customer satisfaction for service improvements and effective marketing strategies. This analysis aims to analyze customer satisfaction within the airline industry, focusing on British Airways. By identifying factors influencing customer ratings and understanding seasonal booking trends, the analysis provides actionable insights that could enhance service delivery and customer experience.
 
-The project follows a traditional data analysis methodology starting with data preprocessing, exploratory data analysis (EDA), and hypothesis testing to determine factors affecting customer satisfaction. The analysis was performed using Python. The data preprocessing of this dataset was challenging, and the detailed steps are presented after the results and discussion. To provide the final insights, the familiarity of the reader with the dataset is essential. The dataset contains passenger’s flight information including the routes, flying month, the class of flight and their review and rating regarding their flight experience. The figure shows the details.
+The project follows a traditional data analysis methodology starting with data preprocessing, exploratory data analysis (EDA), and hypothesis testing to determine factors affecting customer satisfaction. The analysis was performed using Python. The data preprocessing of this dataset was challenging, and the detailed steps are presented after the results and discussion. 
+
+To provide the final insights, the familiarity of the reader with the dataset is essential. The dataset contains passenger’s flight information including the routes, flying month, the class of flight and their review and rating regarding their flight experience. The figure shows the details.
 
 ![image](https://github.com/Mabrar92/Data-Analysis-of-British-Airways/assets/18236632/eaebc8c1-f2d5-4ec7-ba6a-ecf27fb0e978)
 
