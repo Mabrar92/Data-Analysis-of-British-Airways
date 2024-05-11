@@ -4,7 +4,7 @@ The competition in the airline industry is at an all-time high due to the introd
 
 The project follows a traditional data analysis methodology starting with data preprocessing, exploratory data analysis (EDA), and hypothesis testing to determine factors affecting customer satisfaction. The analysis was performed using Python. The data preprocessing of this dataset was challenging, and the detailed steps are presented after the results and discussion. 
 
-To provide the final insights, the familiarity of the reader with the dataset is essential. The dataset contains passenger’s flight information including the routes, flying month, the class of flight and their review and rating regarding their flight experience. The figure shows the details.
+To provide the final insights, the familiarity of the reader with the dataset is essential. The dataset contains passenger’s flight information including the routes, flying month, the class of flight and their review and rating regarding their flight experience. The figure shows the details. The complete code is presented [here](Data_Analysis_of_British_Airways.ipynb).
 
 ![image](https://github.com/Mabrar92/Data-Analysis-of-British-Airways/assets/18236632/eaebc8c1-f2d5-4ec7-ba6a-ecf27fb0e978)
 
@@ -62,10 +62,13 @@ The U-Statistic is a measure of the difference in the distributions of the group
 # Recommendations to British Airways
 
 The results from the Mann-Whitney U test show a significant difference in the satisfaction levels across customers related to business and those travelling for leisure. This result has several potential impacts and applications in the airline industry. These include Targeted services, Personalized Marketing strategy, and customized reward plans.
+
 **Targeted services**
 These results provide important insight into airlines to provide targeted services according to the different preferences of business and leisure travellers. The airline services should understand from these insights that these two groups shouldn’t be given similar treatment and packages. For instance, Business travellers may need faster check-ins, and reliable Wi-Fi for uninterrupted connectivity, while leisure travellers might consider more comfort and entertainment.
+
 **Personalised Marketing strategy**
 Moreover, Airlines can utilize these results to develop targeted marketing strategies for each group separately without relying on the same strategy for both, as both groups have different needs and desires. They should experiment with different elements to target these groups such as language, visual creatives, and services.
+
 **Loyalty Programs Customization:**
 Airlines can design customized reward packages and loyalty programs to benefit each group with different rewards based on what appeals to each group. One example can be to offer lounge access or priority boarding to loyal business travellers.
 
